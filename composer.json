@@ -1,0 +1,22 @@
+{
+  "name": "augustash/text_asterisk_formatter",
+  "description": "Provides a plain-text formatter that allows bold and italic via asterisks.",
+  "type": "drupal-custom-module",
+  "license": "proprietary",
+  "homepage": "https://github.com/augustash/drupal-editor-link-classify",
+  "authors": [
+    {
+      "name": "Jacob Weber",
+      "email": "jweber@augustash.com",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/augustash/drupal-editor-link-classify/issues",
+    "source": "https://github.com/augustash/drupal-editor-link-classify"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": "^8.8 || ^9 || ^10"
+  }
+}

@@ -1,0 +1,5 @@
+name: Text Asterisk Formatter
+type: module
+description: Provides a plain-text formatter that allows bold and italic via asterisks.
+core_version_requirement: ^8.8 || ^9 || ^10
+package: Field Formatters
