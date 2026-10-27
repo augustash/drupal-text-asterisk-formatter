@@ -1,0 +1,7 @@
+field.formatter.settings.asterisk:
+  type: mapping
+  label: 'Text asterisk formatter settings'
+  mapping:
+    strip:
+      type: boolean
+      label: 'Strip tags'
